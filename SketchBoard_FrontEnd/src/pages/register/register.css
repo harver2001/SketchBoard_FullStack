@@ -1,0 +1,57 @@
+.register{
+    height: calc(100vh - 50px);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(rgba(26, 25, 25, 0.5),rgba(45, 38, 38, 0.5)),url(https://www.freepnglogos.com/uploads/mountain-png/mountain-png-online-marketing-all-solutions-0.png);
+    background-size: cover;
+}
+
+.registerTitle{
+    font-size: 50px;
+    font-weight: 500;
+}
+
+.registerForm{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.registerForm > label{
+    margin: 10px 0px;
+    color: #fff;
+}
+
+.registerForm > label{
+    font-weight: 800;
+}
+
+.registerInput{
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 10px;
+}
+                
+.registerButton{
+    margin-top: 20px;
+    cursor: pointer;
+    background-color: rgb(239, 124, 104);
+    border: none;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.registerLoginButton{
+    position: absolute;
+    top: 60px;
+    right: 20px;
+    background-color: teal;
+    cursor: pointer;
+    border: none;
+    padding: 10px;
+    color: #fff;
+    border-radius: 10px;
+}
