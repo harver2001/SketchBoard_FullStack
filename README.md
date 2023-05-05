@@ -53,7 +53,7 @@ We can also search or filter arts by their Categories...
 #### Login Page
 ![Screenshot 2023-04-03 211757](https://user-images.githubusercontent.com/111651944/236479106-53cba09a-f53c-4a55-818a-2d4fec04cec7.png)
 
-MongoDB has been used as Backend Database to Store and fetch User Details for the Login System.
+MongoDB has been used as Backend Database to Store and fetch User Details for the Login/Register System.
 
 ### 5)  User Profile can be Updated with Ease
 
@@ -65,4 +65,4 @@ Context API has been used to Update User Details.
 
 ![Screenshot 2023-04-03 212005](https://user-images.githubusercontent.com/111651944/236479458-fe55f723-4bbe-44d7-b2a3-2a7146af41da.png)
 
-Everything About My Technical Skills are Mentioned here 
+Everything About My Technical Skills is Mentioned Here. 
