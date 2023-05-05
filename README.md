@@ -55,7 +55,7 @@ We can also search or filter arts by their Categories...
 
 MongoDB has been used as Backend Database to Store and fetch User Details for the Login/Register System.
 
-### 5)  User Profile can be Updated with Ease
+### 6)  User Profile can be Updated with Ease
 
 ![Screenshot 2023-04-03 211716](https://user-images.githubusercontent.com/111651944/236479321-f83ef5a6-769e-4e45-9f65-e784dbf34fc0.png)
 
