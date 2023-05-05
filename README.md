@@ -61,7 +61,7 @@ MongoDB has been used as Backend Database to Store and fetch User Details for th
 
 Context API has been used to Update User Details.
 
-### 5)  About Me Page
+### 7)  About Me Page
 
 ![Screenshot 2023-04-03 212005](https://user-images.githubusercontent.com/111651944/236479458-fe55f723-4bbe-44d7-b2a3-2a7146af41da.png)
 
